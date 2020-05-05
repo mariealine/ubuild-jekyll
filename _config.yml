@@ -1,30 +1,17 @@
-title: 100kms
+title: 100 kms around me
 author: Marie-Aline Millot 
 email: mariealine@weekendesk.fr
 description: >-
   "100kms around me" allow you to find the best place to go away and enjoy a short stay. Enjoy !
 baseurl: "/ubuild-jekyll" # the subpath of your site, e.g. /blog
-url: "" # your site's origin, e.g. https://forestry.io
+url: https://mariealine.github.io/ubuild-jekyll/
 
 # Build settings
 defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default" # this ensures all content renders with layouts/default.html
-
+- scope:
+    path: ''
+  values:
+    layout: default
 plugins:
-  - jekyll-feed
-  - jekyll-menus
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+- jekyll-feed
+- jekyll-menus
