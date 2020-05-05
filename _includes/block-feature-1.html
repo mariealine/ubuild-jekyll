@@ -7,6 +7,7 @@
       <div class="column text">
         <h2><span class="light">{{ section.headline }}</span></h2>
         <p>{{ section.content }}</p>
+        <a class="button primary small block-header-2--cta" target="_blank "href="{{ section.cta.url }}">{{ section.cta.button_text }}</a>
       </div>
       <div class="column media">
         <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
