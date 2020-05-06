@@ -57,7 +57,7 @@ page_sections:
   content: "Enfin le moment de pouvoir tout mettre de coté et partir prendre soin de soi en sortant du quotidien et de la routine. Thalassothérapie, Balnéotherapie, massage, jaccuzzi privé, il y en a pour tous les goûts !"
   cta:
     enabled: true
-    url: https://m.weekendesk.fr/sejour/STH1_qSTP1_7VRS1_9/Bien-etre#lat=48.8543;lng=2.3527;a=2;theme=26
+    url: https://www.weekendesk.fr/sejour/STP1_7VRS1_9;theme=26
     button_text: 'Weekend Bien-etre à 100km de chez moi '
   media:
     image: "/uploads/2018/06/21/edit.gif"
