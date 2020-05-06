@@ -3,7 +3,7 @@ author: Marie-Aline Millot
 email: mariealine@weekendesk.fr
 description: >-
   "100kms around me" allow you to find the best place to go away and enjoy a short stay. Enjoy !
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://mariealine.github.io/ubuild-jekyll/" # the subpath of your site, e.g. /blog
 url: https://mariealine.github.io/ubuild-jekyll/
 
 # Build settings
