@@ -9,10 +9,10 @@ page_sections:
   navigation:
   - link: "Ile-De-France"
     link_text: Ile-De-France
-  - link: "PACA"
-    link_text: PACA
-  - link: "AuvergneRhoneAlpes"
-    link_text: Auvergne Rhone Alpes
+  - link: "Provence-Alpes-Côte-d-Azur"
+    link_text: Provence-Alpes-Côte d'Azur
+  - link: "Auvergne-Rhone-Alpes"
+    link_text: Auvergne-Rhone-Alpes
 - template: hero-banner-w-image
   block: hero-2
   headline: Séjour à moins de 100km de chez vous
@@ -74,7 +74,7 @@ page_sections:
 
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Weekendesk 2020
 
 ---
 foo bar
