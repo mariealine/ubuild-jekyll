@@ -8,31 +8,26 @@ page_sections:
   logo: "/uploads/2018/06/21/Weekendesk_Wordmark_Primary.png"
 - template: hero-banner-w-image
   block: hero-2
-  headline: Le futur du tourisme est local
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae sequi obcaecati iusto aspernatur facilis natus minus corporis, quae assumenda error, labore cum fugit. Rerum fuga numquam rem explicabo perspiciatis nobis."
+  headline: Découvrez les séjours autour de chez vous
+  content: De magnifiques et superbes endroits n'attendent que vous !
   image:
     image: "/uploads/2020/05/13/undraw_travelers_qlt1.svg"
-    alt_text: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    alt_text: 'Illustration de voyageurs'
 - template: 1-column-text
   block: one-column-1
-  headline: F.A.Q.
+  headline: Des séjours de proximité et pour toutes les envies
   content: >-
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus porro, alias tempore necessitatibus esse. Nisi accusantium similique, laboriosam, eum impedit eius iusto eveniet hic atque ullam architecto, aperiam a culpa!"
+    Voyagez est possible ! Vous êtes à la recherche d’endroits merveilleux et autour de chez vous pour votre prochain séjour, venez trouver ce que vous attendez. Vous pouvez y aller ! 
 - template: content-feature
   block: feature-1
   media_alignment: Left
   headline: Besoin d‘un grand bol d‘air ?
   content: >-
-    Accrobranche dans les arbres, ballade en forêt, ballade à vélo, vous avez
-    envie de vous dépenser en couple, en famille ou entre ami, découvrez où aller à proximité de votre domicile.
+    Succombez à l‘appel de la nature: balade en forêt, à vélo, seul ou à plusieurs… Reconnectez avec vous-même en partant à proximité de votre domicile.
   cta:
     enabled: true
-    url: https://www.weekendesk.fr/
-    button_text: Weekend grand air
+    url: https://www.weekendesk.fr/idee-week-end-sejour/14w8/Week-end-nature
+    button_text: Trouvez votre weekend nature
   media:
     image: "/uploads/2020/05/13/AdobeStock_140792703_Preview.jpeg"
     alt_text: Offres au grand air à 100km de chez vous
