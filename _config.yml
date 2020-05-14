@@ -1,8 +1,8 @@
-title: 100 kms around me
+title: Découvrez les séjours autour de chez vous
 author: Marie-Aline Millot 
 email: mariealine@weekendesk.fr
 description: >-
-  "100kms around me" allow you to find the best place to go away and enjoy a short stay. Enjoy !
+  De magnifiques et superbes endroits n'attendent que vous !
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://mariealine.github.io/ubuild-jekyll/
 
@@ -15,3 +15,4 @@ defaults:
 plugins:
 - jekyll-feed
 - jekyll-menus
+
