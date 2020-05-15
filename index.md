@@ -15,9 +15,10 @@ page_sections:
     alt_text: 'Illustration de voyageurs'
 - template: 1-column-text
   block: one-column-1
-  headline: Des séjours de proximité et pour toutes les envies
+  headline: Des séjours de proximité pour toutes les envies
   content: >-
-    Voyagez est possible ! Vous êtes à la recherche d’endroits merveilleux et autour de chez vous pour votre prochain séjour, venez trouver ce que vous attendez. Vous pouvez y aller ! 
+    Voyagez est possible ! Vous êtes à la recherche d’endroits merveilleux et autour de chez vous pour votre prochain séjour, venez trouver ce que vous attendez.
+    Vous pouvez y aller ! 
 - template: content-feature
   block: feature-1
   media_alignment: Left
